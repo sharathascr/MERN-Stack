@@ -1,0 +1,15 @@
+.tabheader{
+    background-color: black;
+    color: #ffffff;
+    
+}
+.tabborder{
+    border-radius: 7px;
+}
+
+
+.listBody{
+    background-color: #eeeeee;
+    height: 100%;
+    padding-bottom: 365px;
+}

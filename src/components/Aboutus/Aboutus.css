@@ -1,0 +1,16 @@
+body{
+    background-color:#eee;
+}
+/* .bgcolor{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(180, 125, 233);
+    clip-path: polygon(100% 0%, 0% 0, 100% 100%);
+} */
+
+@media screen and (max-width:760px) {
+    .col-sm-5{
+        margin: 30px;
+    }
+    
+}

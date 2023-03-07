@@ -1,0 +1,41 @@
+.form-control::placeholder{
+    font-size: small;
+    color: black;
+    
+
+}
+.form-control{
+    background-color: rgb(239, 228, 248);
+}
+.textmessage{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.contactbtn{
+
+    background-color: blueviolet;
+    border: none;
+    border-radius: 20px;
+    padding: 0.3rem 3rem;
+    color: white;
+    text-align: center;
+}
+.btndiv{
+    text-align: center;
+    margin-top: 20px 
+}
+.cdiv{
+     padding: 90px 0;
+        
+    text-align: left;
+}
+.cdivcontent{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "Gill Sans", sans-serif;
+}
+.cdivc{
+    font-weight: 500;
+}

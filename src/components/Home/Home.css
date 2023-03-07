@@ -1,0 +1,41 @@
+.bgimg{
+    background-image:url("../../images/Modern_background_7.jpg");
+    background-size: 100% ; 
+    padding-bottom: 120px;
+}
+
+.homecnt1{
+    color: white;
+    margin-top:110px 
+    
+}
+.regbtn{
+    border: none;
+    border-radius: 20px;
+    padding: 5px 30px;
+    background-color: #5126ba;
+    color: #fff;
+}
+.lgnbtn{
+    border: none;
+    border-radius: 20px;
+    margin: 0 20px;
+    padding: 5px 40px;
+    background-color: rgb(2, 158, 2);
+    color: white;
+}
+
+@media screen and (max-width:813px) {
+    
+    .regbtn{
+        padding: 5px 10px;
+        margin: 10px;
+    }
+    .lgnbtn{
+        padding: 5px 10px;
+        margin: 10px;
+    }
+    .homecnt1{
+        margin-top:10px ;
+    }
+}
